@@ -1,4 +1,4 @@
-s3_bucket = "jenkins-terraform-maxirs"
+s3_bucket = "jenkins-terraform-maksiess"
 s3_folder_project = "terraform_vpc"
 s3_folder_region = "us-east-1"
 s3_folder_type = "class"
